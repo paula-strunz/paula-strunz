@@ -2,7 +2,7 @@
 
 **I'm a Product Manager who builds.**
 
-Not "technical enough to talk to engineers" — actually shipping. Most PMs write the spec and wait. I prototype the thing, prove it works (or kill it fast), then write the spec that survives contact with reality.
+Hands on the product, not just the ticket. I don't stop at the spec — I prototype the thing, prove it works (or kill it fast), then write the one that survives contact with reality.
 
 This profile is where the prototypes live. Rough edges included, on purpose.
 
@@ -19,4 +19,4 @@ This profile is where the prototypes live. Rough edges included, on purpose.
 | [`bias-dungeon`](https://github.com/paula-strunz/bias-dungeon) | Product prototype with a sharp idea |
 | [`conversational-sales-intelligence`](https://github.com/paula-strunz/conversational-sales-intelligence) | Turning messy conversations into signal |
 
-More at [iampaula.tech](https://www.iampaula.tech) · Bordeaux, France
+More at [iampaula.tech](https://www.iampaula.tech)
