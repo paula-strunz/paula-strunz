@@ -13,7 +13,7 @@ Everything here is something I use, or used and threw away. Nothing is theory.
 ### Start here
 | Repo | Why it exists |
 |------|----------------|
-| [`bias-dungeon`](https://github.com/paula-strunz/bias-dungeon) | Prototype: teach cognitive biases as a game |
+| [`bias-dungeon`](https://github.com/paula-strunz/bias-dungeon) | Game: teach cognitive biases as a game |
 | [`agent-skills`](https://github.com/paula-strunz/agent-skills) | Skills I actually reuse across agent work |
 
 More at [iampaula.tech](https://www.iampaula.tech)
