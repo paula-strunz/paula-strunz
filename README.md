@@ -4,7 +4,7 @@
 
 I ran the experiment on myself first: agents, skills and automations doing the research, the specs, the analysis — so the human hours go where judgement actually matters.
 
-Everything here is something I use, or used and threw away. Nothing is theory.
+Everything here is something I use, or used and threw away. 
 
 - **`skills/`** — the automations behind my day-to-day PM work
 - **`agents/`** — workflows that do the parts that used to eat a week
